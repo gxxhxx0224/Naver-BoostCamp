@@ -1,2 +1,2 @@
 # Naver-BoostCamp
-Mission
+## Missions
