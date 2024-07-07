@@ -86,7 +86,7 @@
 
 ### 데이터 구조 및 흐름 손그림
 
-- 이미지 첨부
+![image](https://github.com/gxxhxx0224/Naver-BoostCamp/assets/80369805/b26abdcf-9aed-43db-9038-afb203e5fe9b)
 
 ### 구현 함수
 
